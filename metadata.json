@@ -1,0 +1,6 @@
+{
+  "name": "Farmpulse - SIH26132 Market Linkages & Price Discovery",
+  "description": "Interactive platform for SIH26132: Market Linkages & Price Discovery featuring 24/7 verified live crop rates, All-India district and taluk crop sell places search directory, net realization freight math, and official Agmarknet/e-NAM data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
